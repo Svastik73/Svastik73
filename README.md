@@ -2,8 +2,11 @@
 <h3 align="center">A competitive bloke
 <br> striving to succeed 
 </h3>
-<img width ="400" src="https://media.tenor.com/bfOEyTxwK40AAAAS/work-computer.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=svastik73&label=Profile%20views&color=0e75b6&style=flat" alt="svastik73" /> </p>
+<div class="aw"><div class="a1"><img width ="200" src="https://media.tenor.com/bfOEyTxwK40AAAAS/work-computer.gif"/></div>
+  <div class="a2" ><img width="200" src="https://media.tenor.com/5ry-200hErMAAAAS/hacker-hacker-man.gif"/></div>
+
+</div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=svastik73&label=Profile%20views&color=0e75b6&style=flat" alt="svastik73" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svastik73" alt="svastik73" /></a> </p>
 
