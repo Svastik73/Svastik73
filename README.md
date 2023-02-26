@@ -2,8 +2,8 @@
 <h3 align="center">A competitive bloke
 <br> striving to succeed 
 </h3>
-<div class="aw"><div class="a1"><img width ="200" src="https://media.tenor.com/bfOEyTxwK40AAAAS/work-computer.gif"/></div>
-  <div class="a2" ><img width="200" src="https://media.tenor.com/5ry-200hErMAAAAS/hacker-hacker-man.gif"/></div>
+<div class="aw" style="display:flex"><div class="a1" style="flex:1;padding-right:10px;"><img width ="200" src="https://media.tenor.com/bfOEyTxwK40AAAAS/work-computer.gif"/></div>
+  <div class="a2" style="flex:1;padding-right:10px;" ><img width="200" src="https://media.tenor.com/5ry-200hErMAAAAS/hacker-hacker-man.gif"/></div>
 
 </div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=svastik73&label=Profile%20views&color=0e75b6&style=flat" alt="svastik73" /> </p>
