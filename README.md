@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👨‍💻, I'm Svastik Kanwar</h1>
-<h3 align="center">A competitive bloke
-<br> striving to succeed 
-</h3>
+<h3 align="center">A highly competitive bloke
+<br> striving to succeed
+     <h1> A profound COMPUTER ENTHUSIAST SINCE 2007 💻  </h1>
+          </h3>
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
           <img src="https://media.tenor.com/bfOEyTxwK40AAAAS/work-computer.gif" width="200"/>
