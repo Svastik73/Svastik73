@@ -6,14 +6,12 @@
      <div style="flex:1;padding-right:10px;">
           <img src="https://media.tenor.com/bfOEyTxwK40AAAAS/work-computer.gif" width="200"/>
      </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://komarev.com/ghpvc/?username=svastik73&label=Profile%20views&color=0e75b6&style=flat" width="300"/>
-     </div>
+    
      <div style="flex:1;padding-left:10px;">
           <img src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif" width="200"/>
      </div>
 </div>
-
+          <img src="https://komarev.com/ghpvc/?username=svastik73&label=Profile%20views&color=0e75b6&style=flat" width="300"/>
   <p align="left"> <img src="t" alt="svastik73" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svastik73" alt="svastik73" /></a> </p>
