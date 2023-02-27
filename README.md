@@ -9,7 +9,10 @@
      </div>
 </div>
 <img src="https://komarev.com/ghpvc/?username=svastik73&label=Profile%20views&color=0e75b6&style=flat" width="150"/>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svastik73" alt="svastik73" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/svastik_kanwar" target="blank"><img src="https://img.shields.io/twitter/follow/svastik_kanwar?logo=twitter&style=for-the-badge" alt="svastik_kanwar" /></a> </p>
