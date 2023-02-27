@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👨‍💻, I'm Svastik Kanwar</h1>
-<h3 align="center">A highly competitive bloke
+<h3 align="center">A highly<h3 style="color:blue"> COMPETITIVE</h3> and <h3 style="color:green"> GRITTY</h3>bloke
 <br> striving to succeed
      <h1> A profound COMPUTER ENTHUSIAST SINCE 2007 💻  </h1>
           </h3>
