@@ -8,10 +8,11 @@
           <img src="https://media.tenor.com/bfOEyTxwK40AAAAS/work-computer.gif" width="200"/>
      </div>
 </div>
-<img src="https://komarev.com/ghpvc/?username=svastik73&label=Profile%20views&color=0e75b6&style=flat" width="150"/>
+<a href=#><img src="contributions.svg"></a>
+
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/Svastik73/count.svg" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svastik73" alt="svastik73" /></a> </p>
 
