@@ -2,6 +2,9 @@
 <h3 align="center">A highly<p style="color:blue"> ⛳🗡️COMPETITIVE</p> and <p style="color:green"> ⚔️📲GRITTY</p>bloke
 <br> striving to succeed
      <h1> A profound COMPUTER ENTHUSIAST SINCE 2007 💻  </h1>
+     <h3>Hərə bir qəhrəman oldu!<br>
+Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
+Bayrağını yüksəltməyə</h3>
           </h3>
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
