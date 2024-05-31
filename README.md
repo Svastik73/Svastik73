@@ -4,7 +4,7 @@
      <h1> A profound COMPUTER ENTHUSIAST SINCE 2007 💻  </h1>
 
   <h3> Find me over my website: <a href="https://svastik73.github.io/Portfolio-Website/"> Svastik_Kanwar  </a></h3>
-<h3>Hərə bir qəhrəman oldu!<br>
+<h3 style="display:flex; ">Hərə bir qəhrəman oldu!<br>
 Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
 Bayrağını yüksəltməyə</h3>
           </h3>
