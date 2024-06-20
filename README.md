@@ -6,7 +6,9 @@
   <h3> Find me over my website: <a href="https://svastik73.github.io/Portfolio-Website/"> Svastik_Kanwar  </a></h3>
 <h3 style="display:flex; ">Hərə bir qəhrəman oldu!<br>
 Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
-Bayrağını yüksəltməyə</h3>
+Bayrağını yüksəltməyə</h3> <br>
+<br>
+<qoute style="display:flex; justify-content:center;">My message to companies hiring out there : "Instead of hiring cheaters and fraudsters, try to give me a chance :)" </qoute>
           </h3>
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
@@ -14,7 +16,7 @@ Bayrağını yüksəltməyə</h3>
      </div>
 </div>
 <a href=#><img src="contributions.svg"></a>
-<qoute>My message to companies hiring out there : "Instead of hiring cheaters and fraudsters, try to give me a chance :)" </qoute>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Svastik73/count.svg" />
