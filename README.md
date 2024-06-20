@@ -1,5 +1,5 @@
 <h1 align="center">Hello... 👨‍💻, I'm Svastik Kanwar</h1>
-<h3 align="center">A highly<p style="color:blue"> ⛳🗡️</p> <p style="color:green"> ⚔️📲GRITTY</p>bloke
+<h3 align="center">A <p style="color:blue"> ⛳🗡️</p> <p style="color:green"> ⚔️📲GRITTY</p>bloke
 <br> striving to succeed
      <h1> A profound COMPUTER ENTHUSIAST SINCE 2007 💻  </h1>
 
@@ -14,7 +14,7 @@ Bayrağını yüksəltməyə</h3>
      </div>
 </div>
 <a href=#><img src="contributions.svg"></a>
-
+<qoute>My message to companies hiring out there : "Instead of hiring cheaters and fraudsters, try to give me a chance :)" </qoute>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Svastik73/count.svg" />
