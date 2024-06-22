@@ -19,7 +19,8 @@ Bayrağını yüksəltməyə</h3> <br>
 
 <p align="center"> 
   Visitor count<br>
-<p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/0d8112025a387476a96c4e16c1abef8c79e8cb6b948c0d526564bb7a7e7b1887/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d4e616d616e53696e6768616c2d3132332669636f6e3d3026636f6c6f723d30" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=Svastik73&amp;icon=0&amp;color=0" style="max-width: 100%;"></a></p>
+  ![GitHub Views](https://komarev.com/ghpvc/?username=Svastik73)
+
 
 </article>
 </p>
