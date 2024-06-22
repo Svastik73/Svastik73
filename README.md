@@ -8,7 +8,7 @@
 Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
 Bayrağını yüksəltməyə</h3> <br>
 <br>
-<qoute style="display:flex; justify-content:center;">My message to companies hiring out there : "Instead of hiring cheaters and fraudsters, try to give me a chance :)" </qoute>
+<qoute  align="center" style="font-weight:bold">My message to companies hiring out there : "Instead of hiring cheaters and fraudsters, try to give me a chance :)" </qoute>
           </h3>
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
