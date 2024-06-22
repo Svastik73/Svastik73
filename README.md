@@ -19,7 +19,7 @@ Bayrağını yüksəltməyə</h3> <br>
 
 <p align="center"> 
   Visitor count<br>
-  ![GitHub Views](https://komarev.com/ghpvc/?username=Svastik73)
+![Visitor Count](https://profile-counter.glitch.me/{Svastik73}/count.svg)
 
 
 </article>
