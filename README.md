@@ -19,8 +19,7 @@ Bayrağını yüksəltməyə</h3> <br>
 
 <p align="center"> 
   Visitor count<br>
-![Visitor Count](https://profile-counter.glitch.me/Svastik73/count.svg)
-
+[![](https://visitcount.itsvg.in/api?id=Svastik73&label=Profile%20Views%20%3A)](https://visitcount.itsvg.in)
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svastik73" alt="svastik73" /></a> </p>
 
