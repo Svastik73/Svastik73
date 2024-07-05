@@ -11,7 +11,7 @@ Bayrağını yüksəltməyə</h3> <br>
 <h2  align="center" >My message to companies hiring out there :  "Instead of hiring cheaters and fraudsters, try to give me a chance :)" </h2>
           </h3>
 <div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
+     <div style="flex:1;padding-right:1000px;">
           <img src="https://media.tenor.com/bfOEyTxwK40AAAAS/work-computer.gif" width="200"/>
      </div>
 </div>
