@@ -20,7 +20,7 @@ Bayrağını yüksəltməyə</h3> <br>
 <p align="center"> 
   Visitor count<br>
 
- <img src="https://profile-counter.glitch.me/Svastik73/count.svg" />
+[![](https://visitcount.itsvg.in/api?id=Svastik73&label=Profile%20Views%20&pretty=false)](https://visitcount.itsvg.in)
 
 
 </p>
