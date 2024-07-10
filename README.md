@@ -10,26 +10,25 @@ Bayrağını yüksəltməyə</h3> <br>
 <br>
 <h2  align="center" >My message to companies hiring out there :  "Instead of hiring cheaters and fraudsters, try to give me a chance :)" </h2>
           </h3>
-<div style="display:flex">
-     <div style="flex:1;margin-right:1000px;">
-          <img src="https://y.yarn.co/150673df-50fa-4da9-954f-536626e7679e_text.gif" width="350" height:"250"/>
-     </div>
-</div>
+<p align="center">
+  <img src="https://y.yarn.co/150673df-50fa-4da9-954f-536626e7679e_text.gif" width="350" height="250"/>
+</p>
+
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  Visitor count<br>
-
-[![](https://visitcount.itsvg.in/api?id=Svastik73&label=Profile%20Views%20&pretty=false)](https://visitcount.itsvg.in)
-
-
+  <b> Visitor Count  </b><br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Svastik73&label=Profile%20Views%20&pretty=false" alt="Visitor Count">
+  </a>
 </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svastik73" alt="svastik73" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/svastik_kanwar" target="blank"><img src="https://img.shields.io/twitter/follow/svastik_kanwar?logo=twitter&style=for-the-badge" alt="svastik_kanwar" /></a> </p>
 🇺🇸🌎🇺🇲🌃🌁🏙🌄🏝🏟🏏♟️🗽⛲️
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Android Development**
 
