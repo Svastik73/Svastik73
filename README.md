@@ -12,7 +12,7 @@ Bayrağını yüksəltməyə</h3> <br>
           </h3>
 <div style="display:flex">
      <div style="flex:1;padding-right:1000px;">
-          <img src="https://media.tenor.com/bfOEyTxwK40AAAAS/work-computer.gif" width="200"/>
+          <img src="https://y.yarn.co/150673df-50fa-4da9-954f-536626e7679e_text.gif" width="200"/>
      </div>
 </div>
 <a href=#><img src="contributions.svg"></a>
