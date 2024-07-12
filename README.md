@@ -4,7 +4,7 @@
      <h1> A profound COMPUTER ENTHUSIAST SINCE 2007...💻  </h1>
 
   <h3> Find me over my website: <a href="https://svastik73.github.io/Portfolio-Website/"> Svastik_Kanwar  </a></h3>  <br>
-    <h3> Some of my favourite songs ;) <a href="https://svastik73.github.io/Carmen/main.html"> Playlist </a></h3>  <br>
+  
   
 <h3 style="display:flex; ">Hərə bir qəhrəman oldu!<br>
 Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
@@ -15,7 +15,7 @@ Bayrağını yüksəltməyə</h3> <br>
 <p align="center">
   <img src="https://y.yarn.co/150673df-50fa-4da9-954f-536626e7679e_text.gif" width="350" height="250"/>
 </p>
-
+  <h3> Some of my favourite songs ;) <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist </a></h3>  <br>
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
@@ -24,6 +24,8 @@ Bayrağını yüksəltməyə</h3> <br>
     <img src="https://visitcount.itsvg.in/api?id=Svastik73&label=Profile%20Views%20&pretty=false" alt="Visitor Count">
   </a>
 </p>
+<br>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svastik73" alt="svastik73" /></a> </p>
 
