@@ -15,7 +15,7 @@ Bayrağını yüksəltməyə</h3> <br>
 <p align="center">
   <img src="https://y.yarn.co/150673df-50fa-4da9-954f-536626e7679e_text.gif" width="350" height="250"/>
 </p>
-  <h3> Some of my favourite songs ;) <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist </a></h3>  <br>
+  <h3> Some of my favourite songs ;) <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist 🎵🎶🎷</a></h3>  <br>
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
