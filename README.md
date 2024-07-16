@@ -1,7 +1,8 @@
 <h1 align="center">Hello... 👨‍💻, I'm Svastik Kanwar</h1>
 <h3 align="center">A <p style="color:blue"> ⛳🗡️</p> <p style="color:green"> ⚔️📲GRITTY</p>bloke
 <br> striving to succeed
-     <h1> Software | Tech Enthusiast | Learner </h1> 
+     <h1 align="center">Software | Tech Enthusiast | Learner</h1>
+
 
   <h3> Find me over my website: <a href="https://svastik73.github.io/Portfolio-Website/"> Svastik_Kanwar  </a></h3>  <br>
   
