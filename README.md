@@ -11,7 +11,7 @@
 Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
 Bayrağını yüksəltməyə</h3> <br>
 <br>
-  <h3> Some of my favourite songs ;) <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist 🎵 - music site made for 🎶 that🎷</a></h3>  <br>
+  <h3> Some of my favourite songs ;) <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist 🎵 🎶🎷</a></h3>  <br>
   <br>
 <h2  align="center" >My message to companies hiring out there :  "Instead of hiring cheaters and fraudsters, try to give me a chance :)" </h2>
           </h3>
