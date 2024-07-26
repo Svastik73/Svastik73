@@ -13,8 +13,8 @@ Bayrağını yüksəltməyə</h3> <br>
 <br>
   <h3> Some of my favourite songs ;) <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist 🎵 🎶🎷</a></h3>  <br>
   <br>
-<h2  align="center" >My message to companies hiring out there :  "Instead of hiring cheaters and fraudsters, try to give me a chance :)" </h2>
-          </h3>
+
+          
 <p align="center">
   <img src="https://y.yarn.co/150673df-50fa-4da9-954f-536626e7679e_text.gif" width="350" height="250"/>
 </p>
