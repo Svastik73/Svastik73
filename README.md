@@ -9,10 +9,13 @@
   
 <h3 style="display:flex; ">Hərə bir qəhrəman oldu!<br>
 Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
-Bayrağını yüksəltməyə</h3> <br>
+Bayrağını yüksəltməyə</h3> 
 <br>
-<br>
+   Currently working on some cool project:
+    1. ML in military
+    2. Life simulator ( an ai integrated game)
 
+<bR>
   <h3>  <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist 🎵 🎶🎷</a></h3>  <br>
   <br>
 
