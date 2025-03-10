@@ -13,7 +13,7 @@ Bayrağını yüksəltməyə</h3> <br>
 <br>
 <br>
 
-  <h3> Some of my favourite songs ;) <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist 🎵 🎶🎷</a></h3>  <br>
+  <h3>  <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist 🎵 🎶🎷</a></h3>  <br>
   <br>
 
           
