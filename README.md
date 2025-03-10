@@ -11,9 +11,11 @@
 Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
 Bayrağını yüksəltməyə</h3> 
 <br>
-   Currently working on some cool project:
-    1. ML in military
+
+  <h2>Currently working on some cool projects:
+    1. ML in military ( a mini prototype of lavender AI)
     2. Life simulator ( an ai integrated game)
+    </h2> 
 
 <bR>
   <h3>  <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻 Playlist 🎵 🎶🎷</a></h3>  <br>
