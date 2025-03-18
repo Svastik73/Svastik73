@@ -12,8 +12,8 @@ Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
 Bayrağını yüksəltməyə</h3> 
 <br>
 
-  <h2>Currently working on some cool projects: <bR>
-    1. ML in military ( a mini prototype of lavender AI)  <br>
+  <h1>Currently working on some cool projects: </h1><bR>
+  <h2>  1. ML in military ( a mini prototype of lavender AI)  <br>
     2. Life simulator ( an ai integrated game)
     </h2> 
 
