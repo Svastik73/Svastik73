@@ -8,7 +8,7 @@
   
   
 <h3 style="display:flex; ">Hərə bir qəhrəman oldu!<br>
-Sən olasan gülüstan<br>Namusunu hifz etməyə<br>
+Namusunu hifz etməyə<br>
 Bayrağını yüksəltməyə</h3> 
 <br>
 
