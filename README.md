@@ -14,9 +14,11 @@ Bayrağını yüksəltməyə</h3>
 <br>
 
   <h3>Currently working on some cool projects: </h3><bR>
-  <h2>  1. ML in military ( a mini prototype of lavender AI)  <br>
-    2. Life simulator ( an ai integrated game)
-    </h2> 
+  <h2> 
+    1. Life simulator ( an ai integrated game)
+    2. Web 3 project
+       
+  </h2> 
 
 <bR>
   <h2>  <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻  Songs Playlist 🎵 🎶🎷</a></h2>  <br>
