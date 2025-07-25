@@ -7,7 +7,7 @@
   <h3> Find me over my website: <a href="https://svastik73.github.io/Portfolio-Website/"> Svastik_Kanwar  </a></h3>  <br>
 
    <H1>Слава Україні! 🇺🇦 🇺🇦  </H1>
-  
+  <h3>Хоробрий український народе, який бореться зі злом!</h3>
 <h3 style="display:flex; ">Hərə bir qəhrəman oldu!<br>
 Namusunu hifz etməyə<br>
 Bayrağını yüksəltməyə</h3> 
