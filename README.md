@@ -29,11 +29,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  <b> Visitor Count  </b><br>
-  <a href="https://visitcount.itsvg.in">
-       ![](https://komarev.com/ghpvc/?username=Svastik73)
-    <img src="https://visitcount.itsvg.in/api?id=Svastik73&label=Profile%20Views%20&pretty=false" alt="Visitor Count">
-  </a>
+    <img src = "https://github-vistors-counter.onrender.com/github?username=Svastik73" alt = "Visitors-Counter"/>
 </p>
 <br>
 
