@@ -31,6 +31,7 @@
 <p align="center"> 
   <b> Visitor Count  </b><br>
   <a href="https://visitcount.itsvg.in">
+       ![](https://komarev.com/ghpvc/?username=Svastik73)
     <img src="https://visitcount.itsvg.in/api?id=Svastik73&label=Profile%20Views%20&pretty=false" alt="Visitor Count">
   </a>
 </p>
