@@ -14,6 +14,7 @@
   <h2> 
     1. Life simulator ( an ai integrated game)
     2. Web 3 project
+    3. Spring Boot (project) updated: 18 august 2025
        
   </h2> 
 
