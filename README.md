@@ -1,5 +1,5 @@
 <h1 align="center">Hello... 👨‍💻, I'm Svastik Kanwar</h1>
-<h3 align="center">A <p style="color:blue"> ⛳🗡️</p> <p style="color:green"> ⚔️📲GRITTY , Resilient </p>bloke
+<h3 align="center">A <p style="color:blue">  <p style="color:green">GRITTY , Resilient </p>bloke
 <br> striving to succeed
      <h1 align="center">Software | Tech Enthusiast | Learner</h1>
 
