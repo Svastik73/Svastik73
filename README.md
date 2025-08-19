@@ -9,8 +9,7 @@
    <H1>Слава Україні! 🇺🇦 🇺🇦  </H1>
   <h3>Хоробрий український народе, який бореться зі злом!</h3>
 
-
-  <h3>Currently working on some cool projects: </h3><bR>
+  <h3>Currently working on some cool projects: </h3>
   <h4> 
     1. Life simulator ( an ai integrated game) <br>
     2. Web 3 project <br>
