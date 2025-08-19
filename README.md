@@ -11,12 +11,12 @@
 
 
   <h3>Currently working on some cool projects: </h3><bR>
-  <h2> 
-    1. Life simulator ( an ai integrated game)
-    2. Web 3 project
-    3. Spring Boot (project) updated: 18 august 2025
+  <h4> 
+    1. Life simulator ( an ai integrated game) <br>
+    2. Web 3 project <br>
+    3. Spring Boot (project) updated: 18 august 2025 <br>
        
-  </h2> 
+  </h4> 
 
 <bR>
   <h2>  <a href="https://svastik73.github.io/Carmen/main.html"> 👉🏻  Songs Playlist 🎵 🎶🎷</a></h2>  <br>
