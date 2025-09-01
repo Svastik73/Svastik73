@@ -1,6 +1,6 @@
 <h1 align="center">Hello... 👨‍💻, I'm Svastik Kanwar</h1>
-<h3 align="center">A <p style="color:blue">  <p style="color:green">Gritty , Resilient </p>bloke
-<br> striving to succeed
+<h3 align="center">A <p style="color:blue">  <p style="color:green">Gritty , Resilient , Optimistic </p>bloke
+<br> working to succeed
      <h1 align="center">Software | Tech Enthusiast | Learner</h1>
 
 
