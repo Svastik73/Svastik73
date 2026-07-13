@@ -35,7 +35,7 @@
 <br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![Svastik73 trophies](https://github-profile-trophy.vercel.app/?username=Svastik73&theme=flat&row=4&column=6&no-bg=true&no-frame=true)
 
 <p align="left"> <a href="https://twitter.com/svastik_kanwar" target="blank"><img src="https://img.shields.io/twitter/follow/svastik_kanwar?logo=twitter&style=for-the-badge" alt="svastik_kanwar" /></a> </p>
 🇺🇸🌎🇺🇲🌃🌁🏙🌄🏝🏟🏏♟️🗽⛲️
